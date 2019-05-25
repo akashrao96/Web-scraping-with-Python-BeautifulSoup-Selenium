@@ -1,3 +1,4 @@
+#Scraping Flipkart Mi Brand Mobile Details for analysis
 import requests 
 import csv
 from bs4 import BeautifulSoup
